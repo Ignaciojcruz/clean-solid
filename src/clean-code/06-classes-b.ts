@@ -1,6 +1,6 @@
 (()=> {
 
-    
+        //Aplicando el principio de responsabilidad única
     
         type Gender = 'M'|'F';
     
